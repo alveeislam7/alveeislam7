@@ -1,7 +1,7 @@
 # Hi, This is Md Alvee Islam 👋
 
-🎓 BBA Student (MIS & Marketing) | 📊 Aspiring Data Analyst  
-🌍 Passionate about Business Intelligence, Social Impact & Sustainability  
+BBA Student (MIS & Marketing) | 📊 Aspiring Data Analyst  
+Passionate about Business Intelligence, Social Impact & Sustainability  
 
 ---
 
