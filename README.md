@@ -14,7 +14,7 @@ I bridge the gap between complex data systems and strategic business decisions. 
 ---
 
 ### Featured Projects
-* **[Ecommerce Sales Analysis](your-repo-link-here)** *Interactive Excel Dashboard analyzing $2.3M+ in sales. Automated YOY growth tracking and regional performance metrics.*
+* **[Ecommerce Sales Analysis]([your-repo-link-here](https://github.com/alveeislam7/ecommerce-sales-analysis-dashboard.git))** *Interactive Excel Dashboard analyzing $2.3M+ in sales. Automated YOY growth tracking and regional performance metrics.*
 * **[Social Impact Tracker](your-repo-link-here)** *Measuring community development KPIs for Rotaract District 3281 projects.*
 
 ---
