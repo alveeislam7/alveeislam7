@@ -14,8 +14,8 @@ I bridge the gap between complex data systems and strategic business decisions. 
 ---
 
 ### Featured Projects
+* **[Bank Loan Portfolio Analysis](https://github.com/alveeislam7/bank-loan-portfolio-analysis.git)** *Measuring community development KPIs for Rotaract District 3281 projects.*
 * **[Ecommerce Sales Analysis](https://github.com/alveeislam7/ecommerce-sales-analysis-dashboard.git)** *Interactive Excel Dashboard analyzing $2.3M+ in sales. Automated YOY growth tracking and regional performance metrics.*
-* **[Social Impact Tracker](your-repo-link-here)** *Measuring community development KPIs for Rotaract District 3281 projects.*
 
 ---
 
