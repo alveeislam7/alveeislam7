@@ -1,5 +1,5 @@
 # Md Alvee Islam
-**BBA (MIS & Marketing) | Data Analyst | Dhaka, Bangladesh**
+**BBA (MIS & Marketing) | East West University | Dhaka, Bangladesh**
 
 I bridge the gap between complex data systems and strategic business decisions. I specialize in transforming raw data into actionable insights through robust ETL processes, financial trend modeling, and interactive storytelling.
 
@@ -19,6 +19,9 @@ I bridge the gap between complex data systems and strategic business decisions. 
 
 #### [E-commerce Sales Analysis](https://github.com/alveeislam7/ecommerce-sales-analysis)
 *Comprehensive Excel Dashboard analyzing **$2.3M+ in sales**. Automated performance tracking and regional sales distribution metrics.*
+
+#### [Supply Chain Logistics Analysis](https://github.com/alveeislam7/supply-chain-logistics-analysis) 
+*Interactive Excel Dashboard analyzing **1,406 shipments** across multiple carriers. Benchmarked carrier performance, delivery rates, and cost efficiency to optimize logistics operations.*
 
 ---
 
